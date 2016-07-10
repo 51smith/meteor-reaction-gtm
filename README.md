@@ -1,4 +1,6 @@
-# gorillastack:iron-router-gtm
+# 51smith:reaction-gtm
+
+Forked from GorillaStack/meteor-iron-router-gtm, to port it to Reaction and its Flow Router based system.
 
 Having trouble installing google tag manager?  Even worse, tracking pageviews not working because you are awesome enough to have a single page application?  Hopefully this package helps you with this problem.
 
